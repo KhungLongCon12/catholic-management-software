@@ -1,4 +1,6 @@
 HOW TO INSTALL AND RUN THE PROJECT
+
+
 ------BACKEND
 1. npm init -y
 2. npm install express sequelize mysql2 dotenv passport passport-google-oauth20 bcryptjs jsonwebtoken cors multer nodemailer
